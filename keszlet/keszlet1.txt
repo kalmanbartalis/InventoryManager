@@ -1,0 +1,1 @@
+keszlet1.war - A törzsadatok része stabilan mûködik. A cikkek bevételezésénél a keresés funkció stabilan mûködik. A következõ fejlesztés a bevételezés összeállítása.
